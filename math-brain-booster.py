@@ -88,7 +88,7 @@ class Application:
             thread2.start()
 
         root = tkinter.Tk()
-        root.title("Math Brain Booster v0.0")
+        root.title("Math Brain Booster")
         root.geometry("+10+10")
         root.resizable(False, False)
 
